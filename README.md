@@ -29,23 +29,17 @@ They layout is mostly where it should be, however I was unable to move the butto
 
 Here are the tutorials I used, as well as sites I used to create this:
 
-Tutorial Used:
+* Tutorial Used:
 https://www.youtube.com/watch?v=iKo9pDKKHnc
-
-Research Material Used:
+* Research Material Used:
 https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units
-
-Character Codes Cheat Sheet Used: 
+* Character Codes Cheat Sheet Used: 
 https://theasciicode.com.ar/
-
-'aria-label' Definition: 
+* 'aria-label' Definition: 
 https://www.aditus.io/aria/aria-label/#:~:text=Over%2Dusing%20it-,Definition,content%20as%20the%20accessibility%20label , https://www.w3.org/TR/wai-aria-1.1/#aria-labelledby
-
-'const' Definition: 
+* 'const' Definition: 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const
-
-Parsing error = "The keyword 'const' is reserved": 
+* Parsing error = "The keyword 'const' is reserved": 
 https://stackoverflow.com/questions/42706584/eslint-error-parsing-error-the-keyword-const-is-reserved
-
-CSS Columns: 
+* CSS Columns: 
 https://www.w3schools.com/css/css3_multiple_columns.asp
