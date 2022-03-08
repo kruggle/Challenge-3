@@ -25,7 +25,7 @@ Upon clicking the "Generate Password" button, a password will generate in the de
 
 They layout is mostly where it should be, however I was unable to move the button to the bottom of the card it was on to create more space for the Password Generation area. I will most likely fix this and resubmit at a later time.
 
-
+Deployed link: https://kruggle.github.io/Challenge-3/
 
 Here are the tutorials I used, as well as sites I used to create this:
 
